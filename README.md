@@ -8,3 +8,5 @@ The Login authentication is also enabled.
 #There is listing database where you can list item to sell including images which will be encoded in base64. 
 
 There is two databases for listing one is for temporary which will be approved or deleted by the moderator. For which a dashboard will be added soon in this project.
+
+#There is a simple mail.php file that will work as a mailer. It can be edited and use as mail spoofer as well. Only work on real server environment not on local environment. 
